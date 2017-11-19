@@ -1,1 +1,3 @@
 *.npy
+.gitignore
+.ipynb_checkpoints/
